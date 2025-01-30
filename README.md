@@ -1,2 +1,3 @@
 # MY-SQL-project
-Sales Analysis of pizza store
+Amazon sales
+Sales Analysis of pizza store 
